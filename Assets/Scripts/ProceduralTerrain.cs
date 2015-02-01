@@ -25,6 +25,8 @@ public class ProceduralTerrain : MonoBehaviour {
 	private float maxY = 0;
 	private float minY = 0;
 
+	public TerrainCollider tc;
+
 	protected virtual void Start() {
 		MeshBuilder meshBuilder = new MeshBuilder();
 		
@@ -58,7 +60,8 @@ public class ProceduralTerrain : MonoBehaviour {
 
 		Mesh mesh = meshBuilder.CreateMesh(); // Creates the mesh
 		mesh.RecalculateNormals(); // Recalculates the normals of the mesh from the triangles and vertices
-		mesh.AddComponent<MeshCollider>();
+		tc = gameObject.AddComponent("TerrainCollider") as TerrainCollider;
+		//mesh.AddComponent<MeshCollider>();
 		MeshFilter filter = GetComponent<MeshFilter>(); // Search for a MeshFilter component attached to this GameObject
 		if (filter != null)	filter.sharedMesh = mesh; // Render the mesh created
 

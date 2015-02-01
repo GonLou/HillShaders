@@ -1,3 +1,1116 @@
 Base path: D:/Programas/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-8960
+Pipe name: \\.\pipe\UnityShaderCompiler-1-9188
 Cmd: getPlatforms
+Cmd: preprocess
+  error: 1 plat 12 at (17): Unrecognized #pragma directive: exclusde_renderers
+  insize=2041 outsize=467 ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (17): Unrecognized #pragma directive: exclusde_renderers
+  api=4 type=0 insize=1873 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (17): Unrecognized #pragma directive: exclusde_renderers
+  api=4 type=1 insize=1873 outsize=1607 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (17): Unrecognized #pragma directive: exclusde_renderers
+  insize=2059 outsize=467 ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (17): Unrecognized #pragma directive: exclusde_renderers
+  api=4 type=0 insize=1891 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (17): Unrecognized #pragma directive: exclusde_renderers
+  api=4 type=1 insize=1891 outsize=1607 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (17): Unrecognized #pragma directive: exclusde_renderers
+  insize=2053 outsize=467 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (73): syntax error: unexpected token 'return'
+  api=4 type=0 insize=1885 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (17): Unrecognized #pragma directive: exclusde_renderers
+  insize=2044 outsize=467 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (71): syntax error: unexpected token 'return'
+  api=4 type=0 insize=1876 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (17): Unrecognized #pragma directive: exclusde_renderers
+  insize=2058 outsize=467 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (71): syntax error: unexpected token 'return'
+  api=4 type=0 insize=1890 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2216 outsize=573 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (76): syntax error: unexpected token 'return'
+  api=4 type=0 insize=1942 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2229 outsize=573 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (76): syntax error: unexpected token 'return'
+  api=4 type=0 insize=1955 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2228 outsize=572 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (76): syntax error: unexpected token 'return'
+  api=4 type=0 insize=1955 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2228 outsize=572 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (76): syntax error: unexpected token 'return'
+  api=4 type=0 insize=1955 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2348 outsize=572 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (78): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2075 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2360 outsize=572 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (78): syntax error: unexpected token '{'
+  error: 2 plat 4 at (82): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2087 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2454 outsize=572 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (60): invalid subscript 'color'
+  api=4 type=0 insize=2181 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2591 outsize=572 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (63): invalid subscript 'color'
+  api=4 type=0 insize=2318 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2604 outsize=572 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (63): invalid subscript 'color'
+  api=4 type=0 insize=2331 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2602 outsize=572 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (57): undeclared identifier 'normal'
+  api=4 type=0 insize=2329 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2620 outsize=574 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (85): syntax error: unexpected token '{'
+  error: 2 plat 4 at (89): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2345 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2614 outsize=574 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (86): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2339 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2674 outsize=574 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (87): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2399 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2667 outsize=574 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (87): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2392 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusde_renderers
+  insize=2669 outsize=574 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (87): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2394 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (20): Unrecognized #pragma directive: exclusive_renderers
+  insize=2670 outsize=574 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (87): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2395 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2668 outsize=574 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (87): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2393 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2676 outsize=574 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (87): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2401 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2704 outsize=575 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (89): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2429 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2695 outsize=575 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (89): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2420 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2693 outsize=575 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (90): syntax error: unexpected token 'return'
+  api=4 type=0 insize=2418 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2701 outsize=575 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2426 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (68): 'frag': Not all control paths return a value
+  api=4 type=1 insize=2426 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2699 outsize=575 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2424 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2424 outsize=1428 kw= ok=1
+Cmd: preprocess
+  insize=2695 outsize=574 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2420 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2420 outsize=1567 kw= ok=1
+Cmd: preprocess
+  insize=2592 outsize=574 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2317 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2317 outsize=1567 kw= ok=1
+Cmd: preprocess
+  insize=2592 outsize=574 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2317 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2317 outsize=1567 kw= ok=1
+Cmd: preprocess
+  insize=2592 outsize=574 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2317 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2317 outsize=1542 kw= ok=1
+Cmd: preprocess
+  insize=2590 outsize=573 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2315 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2315 outsize=1567 kw= ok=1
+Cmd: preprocess
+  insize=2590 outsize=573 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2315 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2315 outsize=1567 kw= ok=1
+Cmd: preprocess
+  insize=2594 outsize=576 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2317 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2317 outsize=1567 kw= ok=1
+Cmd: preprocess
+  insize=3132 outsize=625 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (101): undeclared identifier 'thirdTexColor'
+  api=4 type=0 insize=2808 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3132 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2808 outsize=1542 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2808 outsize=2192 kw= ok=1
+Cmd: preprocess
+  insize=3061 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2737 outsize=1542 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2737 outsize=2078 kw= ok=1
+Cmd: preprocess
+  insize=3061 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2737 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2737 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3057 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2733 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2733 outsize=2095 kw= ok=1
+Cmd: preprocess
+  insize=3057 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2733 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2733 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3059 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2735 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2735 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3061 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2737 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2737 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3069 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2745 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2745 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3075 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2751 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2751 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3074 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2750 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2750 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3074 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2750 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2750 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3076 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2752 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2752 outsize=2168 kw= ok=1
+Cmd: preprocess
+  insize=3076 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2752 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2752 outsize=2168 kw= ok=1
+Cmd: preprocess
+  insize=3077 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2753 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2753 outsize=2168 kw= ok=1
+Cmd: preprocess
+  insize=3401 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3077 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3077 outsize=2265 kw= ok=1
+Cmd: preprocess
+  insize=3401 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3077 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3077 outsize=2265 kw= ok=1
+Cmd: preprocess
+  insize=3554 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3230 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3230 outsize=2265 kw= ok=1
+Cmd: preprocess
+  insize=3570 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3246 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3246 outsize=1729 kw= ok=1
+Cmd: preprocess
+  insize=3556 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3232 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (73): 'frag': Not all control paths return a value
+  api=4 type=1 insize=3232 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3554 outsize=625 ok=1
+Cmd: preprocess
+  insize=3550 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3226 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3226 outsize=2265 kw= ok=1
+Cmd: preprocess
+  insize=3550 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3226 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3226 outsize=2249 kw= ok=1
+Cmd: preprocess
+  insize=3546 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3222 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3222 outsize=2265 kw= ok=1
+Cmd: preprocess
+  insize=3550 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3226 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3226 outsize=2265 kw= ok=1
+Cmd: preprocess
+  insize=3550 outsize=625 ok=1
+Cmd: preprocess
+  insize=3550 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3226 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3226 outsize=2249 kw= ok=1
+Cmd: preprocess
+  insize=3611 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3287 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (73): 'frag': Not all control paths return a value
+  api=4 type=1 insize=3287 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3640 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3316 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3316 outsize=2387 kw= ok=1
+Cmd: preprocess
+  insize=3642 outsize=623 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3318 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3318 outsize=2387 kw= ok=1
+Cmd: preprocess
+  insize=3642 outsize=623 ok=1
+Cmd: preprocess
+  insize=3640 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3316 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3316 outsize=2387 kw= ok=1
+Cmd: preprocess
+  insize=3634 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3310 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3310 outsize=2403 kw= ok=1
+Cmd: preprocess
+  insize=3634 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3310 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3310 outsize=2403 kw= ok=1
+Cmd: preprocess
+  insize=3635 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3311 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3311 outsize=2403 kw= ok=1
+Cmd: preprocess
+  insize=3633 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3309 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3309 outsize=2403 kw= ok=1
+Cmd: preprocess
+  insize=3680 outsize=625 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (110): 'lerp': no matching 3 parameter intrinsic function; Possible intrinsic functions are: lerp(float|half|min10float|min16float, float|half|min10float|min16float, float|half|min10float|min16float)
+  error: 2 plat 4 at (112): undeclared identifier 'mixFactor2'
+  api=4 type=0 insize=3356 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3706 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3382 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3382 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3708 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3384 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3384 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3708 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3384 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3384 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3710 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3386 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3386 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3714 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3390 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3390 outsize=1997 kw= ok=1
+Cmd: preprocess
+  insize=3716 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3392 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3392 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3716 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3392 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3392 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3718 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3394 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3394 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3720 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3396 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3396 outsize=1867 kw= ok=1
+Cmd: preprocess
+  insize=3715 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3391 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3391 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3713 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3389 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3389 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3711 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3387 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3387 outsize=1997 kw= ok=1
+Cmd: preprocess
+  insize=3711 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3387 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3387 outsize=1997 kw= ok=1
+Cmd: preprocess
+  insize=3751 outsize=625 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (125): syntax error: unexpected token '}'
+  api=4 type=0 insize=3427 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3749 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3425 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3425 outsize=1729 kw= ok=1
+Cmd: preprocess
+  insize=3741 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3417 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3417 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3742 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3418 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3418 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3742 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3418 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3418 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3806 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3482 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3482 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3808 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3484 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3484 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3809 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3485 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3485 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3809 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3485 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3485 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3806 outsize=625 ok=1
+Cmd: preprocess
+  insize=3808 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3484 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3484 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3808 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3484 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3484 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3808 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3484 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3484 outsize=2013 kw= ok=1
+Cmd: preprocess
+  insize=3799 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3475 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3475 outsize=1729 kw= ok=1
+Cmd: preprocess
+  insize=3800 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3476 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3476 outsize=1892 kw= ok=1
+Cmd: preprocess
+  insize=3800 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3476 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3476 outsize=1892 kw= ok=1
+Cmd: preprocess
+  insize=3800 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3476 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3476 outsize=1892 kw= ok=1
+Cmd: preprocess
+  insize=3800 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3476 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3476 outsize=1892 kw= ok=1
+Cmd: preprocess
+  insize=3802 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3478 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3478 outsize=1892 kw= ok=1
+Cmd: preprocess
+  insize=3804 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3480 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3480 outsize=1892 kw= ok=1
+Cmd: preprocess
+  insize=3951 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3627 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3627 outsize=1892 kw= ok=1
+Cmd: preprocess
+  insize=3959 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3635 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3635 outsize=1729 kw= ok=1
+Cmd: preprocess
+  insize=3961 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3637 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3637 outsize=1729 kw= ok=1
+Cmd: preprocess
+  insize=3969 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3645 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3645 outsize=2152 kw= ok=1
+Cmd: preprocess
+  insize=3969 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3645 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3645 outsize=2468 kw= ok=1
+Cmd: preprocess
+  insize=3969 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3645 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3645 outsize=2468 kw= ok=1
+Cmd: preprocess
+  insize=3747 outsize=625 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (128): syntax error: unexpected token '}'
+  api=4 type=0 insize=3423 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3748 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3424 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3424 outsize=1883 kw= ok=1
+Cmd: preprocess
+  insize=3747 outsize=625 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (101): 'lerp': no matching 0 parameter intrinsic function; Possible intrinsic functions are: lerp(float|half|min10float|min16float, float|half|min10float|min16float, float|half|min10float|min16float)
+  error: 2 plat 4 at (103): syntax error: unexpected token 'mixFactor'
+  api=4 type=0 insize=3423 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3748 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3424 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3424 outsize=1883 kw= ok=1
+Cmd: preprocess
+  insize=3741 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3417 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3417 outsize=1908 kw= ok=1
+Cmd: preprocess
+  insize=3740 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3416 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3416 outsize=1908 kw= ok=1
+Cmd: preprocess
+  insize=3740 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3416 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3416 outsize=1908 kw= ok=1
+Cmd: preprocess
+  insize=3742 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3418 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3418 outsize=1908 kw= ok=1
+Cmd: preprocess
+  insize=3758 outsize=625 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (103): undeclared identifier 'Time'
+  api=4 type=0 insize=3434 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3741 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3417 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3417 outsize=1908 kw= ok=1
+Cmd: preprocess
+  insize=3741 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3417 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3417 outsize=1908 kw= ok=1
+Cmd: preprocess
+  insize=3746 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3422 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3422 outsize=1802 kw= ok=1
+Cmd: preprocess
+  insize=3742 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3418 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3418 outsize=1802 kw= ok=1
+Cmd: preprocess
+  insize=3749 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3425 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3425 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=3743 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3419 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3419 outsize=1802 kw= ok=1
+Cmd: preprocess
+  insize=3035 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2711 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2711 outsize=1802 kw= ok=1
+Cmd: preprocess
+  insize=3041 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2717 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2717 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=3007 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2683 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2683 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=3000 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2676 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2676 outsize=1802 kw= ok=1
+Cmd: preprocess
+  insize=3001 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2677 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2677 outsize=1802 kw= ok=1
+Cmd: preprocess
+  insize=3000 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2676 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2676 outsize=1802 kw= ok=1
+Cmd: preprocess
+  insize=3000 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2676 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2676 outsize=1802 kw= ok=1
+Cmd: preprocess
+  insize=3000 outsize=625 ok=1
+Cmd: preprocess
+  insize=2911 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2587 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2587 outsize=1518 kw= ok=1
+Cmd: preprocess
+  insize=2912 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2588 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2588 outsize=1518 kw= ok=1
+Cmd: preprocess
+  insize=2940 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2616 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2616 outsize=1526 kw= ok=1
+Cmd: preprocess
+  insize=2941 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2617 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2617 outsize=1640 kw= ok=1
+Cmd: preprocess
+  insize=2942 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2618 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2618 outsize=1640 kw= ok=1
+Cmd: preprocess
+  insize=2957 outsize=625 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (91): syntax error: unexpected token 'else'
+  error: 2 plat 4 at (99): syntax error: unexpected token 'else'
+  api=4 type=0 insize=2633 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2952 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2628 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2628 outsize=1493 kw= ok=1
+Cmd: preprocess
+  insize=2953 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2629 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2629 outsize=1493 kw= ok=1
+Cmd: preprocess
+  insize=2951 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2627 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2627 outsize=1607 kw= ok=1
+Cmd: preprocess
+  insize=2951 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2627 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2627 outsize=1607 kw= ok=1
+Cmd: preprocess
+  insize=2952 outsize=624 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (100): syntax error: unexpected token '/'
+  api=4 type=0 insize=2628 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2961 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2637 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2637 outsize=1745 kw= ok=1
+Cmd: preprocess
+  insize=2961 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2637 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2637 outsize=1745 kw= ok=1
+Cmd: preprocess
+  insize=2960 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2636 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2636 outsize=1745 kw= ok=1
+Cmd: preprocess
+  insize=2960 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2636 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2636 outsize=1729 kw= ok=1
+Cmd: preprocess
+  insize=2960 outsize=625 ok=1
+Cmd: preprocess
+  insize=2959 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2635 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2635 outsize=1745 kw= ok=1
+Cmd: preprocess
+  insize=2961 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2637 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2637 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=2961 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2637 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2637 outsize=1762 kw= ok=1
+Cmd: preprocess
+  insize=2961 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2637 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2637 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=2959 outsize=625 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (78): syntax error: unexpected token 'f'
+  api=4 type=0 insize=2635 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2961 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2637 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2637 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=2969 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2645 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2645 outsize=1892 kw= ok=1
+Cmd: preprocess
+  insize=3052 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2728 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2728 outsize=1989 kw= ok=1
+Cmd: preprocess
+  insize=3050 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2726 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2726 outsize=1892 kw= ok=1
+Cmd: preprocess
+  insize=3042 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2718 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2718 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=3042 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2718 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2718 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=3131 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2807 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2807 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3131 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2807 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2807 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3132 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2808 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2808 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3132 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2808 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2808 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3133 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2809 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2809 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3132 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2808 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2808 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3131 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2807 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2807 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3131 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2807 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2807 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3131 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2807 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2807 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3131 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2807 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2807 outsize=1623 kw= ok=1
+Cmd: preprocess
+  insize=3131 outsize=625 ok=1
+Cmd: preprocess
+  insize=3132 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2808 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2808 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=3132 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2808 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2808 outsize=1778 kw= ok=1
+Cmd: preprocess
+  insize=3210 outsize=624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2886 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2886 outsize=1908 kw= ok=1
+Cmd: preprocess
+  insize=3244 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2920 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2920 outsize=1924 kw= ok=1
+Cmd: preprocess
+  insize=3240 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2916 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2916 outsize=2103 kw= ok=1
+Cmd: preprocess
+  insize=3238 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2914 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2914 outsize=1859 kw= ok=1
+Cmd: preprocess
+  insize=3237 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2913 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2913 outsize=1859 kw= ok=1
+Cmd: preprocess
+  insize=3372 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3048 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3048 outsize=1225 kw= ok=1
+Cmd: preprocess
+  insize=3372 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3048 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3048 outsize=1225 kw= ok=1
+Cmd: preprocess
+  insize=2437 outsize=623 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2113 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2113 outsize=1225 kw= ok=1
+Cmd: preprocess
+  insize=2577 outsize=706 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (60): 'vert': function return value missing semantics
+  api=4 type=0 insize=2171 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2834 outsize=707 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (72): invalid subscript 'Albedo'
+  api=4 type=0 insize=2428 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2430 outsize=616 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2113 outsize=1615 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2113 outsize=1225 kw= ok=1
+Cmd: preprocess
+  insize=2438 outsize=624 ok=1
+Cmd: preprocess
+  insize=2875 outsize=666 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (54): unrecognized identifier 'INTERNAL_DATA'
+  api=4 type=0 insize=2510 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2851 outsize=665 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (54): unrecognized identifier 'INTERNAL_DATA'
+  api=4 type=0 insize=2486 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2853 outsize=666 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (103): unrecognized identifier 'SurfaceOutput'
+  api=4 type=0 insize=2488 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2830 outsize=666 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (107): undeclared identifier 'o'
+  api=4 type=0 insize=2465 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3025 outsize=666 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (85): undeclared identifier 'IN'
+  api=4 type=0 insize=2660 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3065 outsize=672 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2694 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2694 outsize=1177 kw= ok=1
