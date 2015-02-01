@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ProceduralTerrain.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shader\Terrain.shader">
     <Files>
-      <File FileName="Assets\Scripts\ProceduralTerrain.cs" Line="64" Column="5" />
+      <File FileName="Assets\Shader\Terrain.shader" Line="90" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

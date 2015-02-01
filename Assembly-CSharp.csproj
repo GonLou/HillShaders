@@ -50,7 +50,6 @@
      <Compile Include="Assets\Scripts\MeshBuilder.cs" />
      <Compile Include="Assets\Scripts\ProceduralTerrain.cs" />
      <Compile Include="Assets\Scripts\SphereAdd.cs" />
-     <None Include="Assets\Shader\Water.shader" />
      <None Include="Assets\Shader\Terrain.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Programas/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>

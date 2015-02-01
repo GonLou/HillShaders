@@ -67,6 +67,9 @@ public class ProceduralTerrain : MonoBehaviour {
 
 	}
 
+	/// <summary>
+	/// Generates the Hill in form of an island
+	/// </summary>
 	public void GenerateHill() {
 		float radius = Random.Range( minHillSize, maxHillSize * 2);   // estabilishes the minimum and maximum value for the hill
 		float x, y;                                                   // coordinates
@@ -95,15 +98,15 @@ public class ProceduralTerrain : MonoBehaviour {
 		if( yMin < 0 ) yMin = 0;
 		if( yMax >= widthLength ) yMax = (int)widthLength - 1;
 
-		// cycles throug the affected mesh cells
+		// cycles through the affected mesh cells
 		for( int h = xMin; h <= xMax; ++h ) {
 			for( int v = yMin; v <= yMax; ++v ) {
 				squareDistance = ( x - h ) * ( x - h ) + ( y - v ) * ( y - v ); // calculate the distance of this particular point
 				heigth =  squareDistance-squareRadius; // determine the height of the hill for this point
 
 				if( heigth > 0 ) finalY[h, v] = heigth; // add the height of this hill to the cell
-					// keeps the maximum and lower values for later smoothing with normalize
-					//if (heigth > maxY) maxY = heigth;
+				// keeps the maximum and lower values for later smoothing with normalize (not used)
+				//if (heigth > maxY) maxY = heigth;
 					//if (heigth < minY) minY = heigth;
 
 			} // y
@@ -112,7 +115,7 @@ public class ProceduralTerrain : MonoBehaviour {
 	}
 	
 	/// <summary>
-	/// Default normalize (no used)
+	/// Default normalize (not used)
 	/// </summary>
 	public void NormalizeHill() {
 		// Get grid cell coordinates
