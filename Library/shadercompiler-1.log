@@ -1,465 +1,175 @@
 Base path: D:/Programas/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-7772
+Pipe name: \\.\pipe\UnityShaderCompiler-1-9024
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=3085 outsize=670 ok=1
+  insize=2572 outsize=585 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (69): 'vert': function return value missing semantics
-  api=4 type=0 insize=2716 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=3087 outsize=670 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2718 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2718 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=3075 outsize=670 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2706 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2706 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=3256 outsize=729 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (91): invalid subscript 'Normal'
-  api=4 type=0 insize=2828 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=3264 outsize=729 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (91): undeclared identifier '_BumpMap'
-  api=4 type=0 insize=2836 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=3096 outsize=729 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2668 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2668 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=3269 outsize=729 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (70): undeclared identifier '_BumpMap'
-  api=4 type=0 insize=2841 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=3271 outsize=728 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (93): undeclared identifier '_BumpMap'
-  api=4 type=0 insize=2843 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=3268 outsize=729 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (93): undeclared identifier '_BumpMap'
-  api=4 type=0 insize=2840 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=3280 outsize=729 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (93): undeclared identifier '_BumpMap'
-  api=4 type=0 insize=2852 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=3334 outsize=728 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (92): undeclared identifier '_BumpMap_ST'
-  api=4 type=0 insize=2906 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=3400 outsize=729 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (96): 'tex2D': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2D(sampler2D, float2|half2|min10float2|min16float2) tex2D(sampler2D, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2)
-  error: 2 plat 4 at (96): undeclared identifier 'uv_BumpMap'
-  api=4 type=0 insize=2972 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=3404 outsize=729 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (75): 'vert': function return value missing semantics
-  api=4 type=0 insize=2976 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=2243 outsize=514 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (88): unrecognized identifier 'Input'
-  api=4 type=0 insize=2029 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=2231 outsize=514 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (88): unrecognized identifier 'SurfaceOutput'
-  api=4 type=0 insize=2017 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=2429 outsize=515 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2215 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2215 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2446 outsize=515 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (105): 'surf': void functions cannot return a value
-  api=4 type=0 insize=2232 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=2630 outsize=514 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2416 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2416 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2644 outsize=515 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2430 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2430 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2553 outsize=515 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2339 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2339 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2678 outsize=515 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2464 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2464 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2679 outsize=515 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2465 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2465 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2680 outsize=515 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2466 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2466 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2674 outsize=513 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (107): unrecognized identifier 'SurfaceOutput'
-  api=4 type=0 insize=2460 outsize=0 kw= ok=0
-Cmd: preprocess
-  error: 2 plat 12 at (19): #pragma surface does not allow specifying other programs
-  error: 2 plat 12 at (19): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'vertexInput i'
-  insize=2752 outsize=717 ok=0
-Cmd: preprocess
-  error: 2 plat 12 at (19): #pragma surface does not allow specifying other programs
-  error: 2 plat 12 at (19): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'vertexInput i'
-  insize=2754 outsize=719 ok=0
-Cmd: preprocess
-  insize=2756 outsize=558 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2499 outsize=1453 kw= ok=1
+  api=4 type=0 insize=2288 outsize=1453 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2499 outsize=1177 kw= ok=1
+  api=4 type=1 insize=2288 outsize=1177 kw= ok=1
 Cmd: preprocess
-  error: 1 plat 12 at (27): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
-  insize=3879 outsize=2342 ok=1
+  insize=2578 outsize=591 ok=1
 Cmd: preprocess
-  error: 1 plat 12 at (27): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
-  insize=4017 outsize=2427 ok=1
+  insize=2578 outsize=591 ok=1
 Cmd: preprocess
-  error: 1 plat 12 at (27): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
-  insize=4020 outsize=2430 ok=1
-Cmd: preprocess
-  error: 1 plat 12 at (27): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
-  insize=4020 outsize=2430 ok=1
-Cmd: preprocess
-  insize=2676 outsize=634 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (76): redefinition of 'fragmentInput::pos'
-  api=4 type=0 insize=2346 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=429 outsize=1175 ok=1
-Cmd: preprocess
-  insize=2676 outsize=634 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (76): redefinition of 'fragmentInput::pos'
-  api=4 type=0 insize=2346 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=2506 outsize=558 ok=1
+  insize=2576 outsize=591 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2249 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2249 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2686 outsize=605 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (109): 'normalize': no matching 1 parameter intrinsic function; Possible intrinsic functions are: normalize(floatM|halfM|min10floatM|min16floatM)
-  error: 2 plat 4 at (109): invalid subscript 'viewDir'
-  api=4 type=0 insize=2382 outsize=0 kw= ok=0
+  error: 2 plat 4 at (98): unrecognized identifier 'SurfaceOutput'
+  api=4 type=0 insize=2286 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=2686 outsize=605 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (109): 'normalize': no matching 1 parameter intrinsic function; Possible intrinsic functions are: normalize(floatM|halfM|min10floatM|min16floatM)
-  error: 2 plat 4 at (109): invalid subscript 'viewDir'
-  api=4 type=0 insize=2382 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=2683 outsize=605 ok=1
+  insize=2582 outsize=591 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (110): undeclared identifier '_RimColor'
-  api=4 type=0 insize=2379 outsize=0 kw= ok=0
+  error: 2 plat 4 at (104): undeclared identifier '_RimColor'
+  api=4 type=0 insize=2292 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=2728 outsize=650 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (111): undeclared identifier '_RimColor'
-  api=4 type=0 insize=2379 outsize=0 kw= ok=0
+  insize=2578 outsize=591 ok=1
 Cmd: preprocess
-  insize=2748 outsize=649 ok=1
+  insize=2596 outsize=591 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2399 outsize=1453 kw= ok=1
+  api=4 type=0 insize=2306 outsize=1453 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2399 outsize=1177 kw= ok=1
+  api=4 type=1 insize=2306 outsize=1177 kw= ok=1
 Cmd: preprocess
-  insize=2748 outsize=650 ok=1
+  insize=1584 outsize=2245 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2399 outsize=1453 kw= ok=1
+  api=4 type=0 insize=8077 outsize=1298 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2399 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2748 outsize=649 ok=1
-Cmd: preprocess
-  insize=2750 outsize=650 ok=1
+  api=4 type=1 insize=8077 outsize=2704 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2401 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2401 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=2748 outsize=649 ok=1
-Cmd: preprocess
-  error: 2 plat 12 at (21): #pragma surface does not allow specifying other programs
-  error: 2 plat 12 at (21): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'vertexInput i'
-  insize=2746 outsize=811 ok=0
-Cmd: preprocess
-  error: 2 plat 12 at (21): #pragma surface does not allow specifying other programs
-  error: 2 plat 12 at (21): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'vertexInput i'
-  insize=2745 outsize=811 ok=0
-Cmd: preprocess
-  insize=2971 outsize=1727 ok=1
+  api=4 type=2 insize=8077 outsize=7815 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6465 outsize=3378 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=3 insize=8077 outsize=5515 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6465 outsize=2964 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=0 insize=5700 outsize=1298 kw=POINT ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=4416 outsize=3647 kw=POINT ok=1
+  api=4 type=1 insize=5700 outsize=3005 kw=POINT ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=4416 outsize=2972 kw=POINT ok=1
+  api=4 type=2 insize=5700 outsize=7815 kw=POINT ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=3944 outsize=2282 kw= ok=1
+  api=4 type=3 insize=5700 outsize=5166 kw=POINT ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=3944 outsize=681 kw= ok=1
+  api=4 type=0 insize=5510 outsize=1298 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6180 outsize=3622 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=4 type=1 insize=5510 outsize=1575 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6180 outsize=2184 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: preprocess
-  insize=2747 outsize=650 ok=1
+  api=4 type=2 insize=5510 outsize=7815 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2398 outsize=1453 kw= ok=1
+  api=4 type=3 insize=5510 outsize=4362 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2398 outsize=1177 kw= ok=1
+  api=4 type=0 insize=7543 outsize=1298 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6465 outsize=3736 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=1 insize=7543 outsize=1534 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6465 outsize=3224 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=2 insize=7543 outsize=7815 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=4416 outsize=2623 kw=DIRECTIONAL ok=1
+  api=4 type=3 insize=7543 outsize=4207 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=4416 outsize=2558 kw=DIRECTIONAL ok=1
-Cmd: preprocess
-  insize=8576 outsize=5418 ok=1
-Cmd: preprocess
-  insize=8577 outsize=5419 ok=1
-Cmd: preprocess
-  insize=8579 outsize=5421 ok=1
-Cmd: preprocess
-  insize=8579 outsize=5421 ok=1
-Cmd: preprocess
-  insize=8506 outsize=5348 ok=1
-Cmd: preprocess
-  insize=8506 outsize=5348 ok=1
-Cmd: preprocess
-  error: 2 plat 12 at (21): #pragma surface does not allow specifying other programs
-  error: 2 plat 12 at (21): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'vertexInput i'
-  insize=2778 outsize=811 ok=0
-Cmd: preprocess
-  error: 2 plat 12 at (22): #pragma surface does not allow specifying other programs
-  error: 2 plat 12 at (22): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'vertexInput i'
-  insize=2813 outsize=846 ok=0
-Cmd: preprocess
-  insize=2851 outsize=687 ok=1
+  api=4 type=0 insize=4813 outsize=1298 kw=SHADOWS_DEPTH ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (90): invalid subscript 'vertex'
-  api=4 type=0 insize=2465 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=2851 outsize=687 ok=1
+  api=4 type=1 insize=4813 outsize=445 kw=SHADOWS_DEPTH ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (90): invalid subscript 'vertex'
-  api=4 type=0 insize=2465 outsize=0 kw= ok=0
-Cmd: preprocess
-  insize=2873 outsize=687 ok=1
+  api=4 type=2 insize=4813 outsize=7815 kw=SHADOWS_DEPTH ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (90): invalid subscript 'vertex'
-  api=4 type=0 insize=2487 outsize=0 kw= ok=0
+  api=4 type=3 insize=4813 outsize=2720 kw=SHADOWS_DEPTH ok=1
 Cmd: preprocess
-  insize=1186 outsize=1190 ok=1
+  insize=1423 outsize=2190 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=5225 outsize=3378 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=0 insize=8245 outsize=1298 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=5225 outsize=1469 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=1 insize=8245 outsize=2704 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=3172 outsize=3647 kw=POINT ok=1
+  api=4 type=2 insize=8245 outsize=7750 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=3172 outsize=1672 kw=POINT ok=1
+  api=4 type=3 insize=8245 outsize=6482 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2674 outsize=2282 kw= ok=1
+  api=4 type=0 insize=5868 outsize=1298 kw=POINT ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2674 outsize=681 kw= ok=1
+  api=4 type=1 insize=5868 outsize=3005 kw=POINT ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=4913 outsize=3655 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=4 type=2 insize=5868 outsize=7750 kw=POINT ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=4913 outsize=1372 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=4 type=3 insize=5868 outsize=6133 kw=POINT ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=5225 outsize=3768 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=0 insize=5678 outsize=1298 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=5225 outsize=1729 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=1 insize=5678 outsize=1575 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=3172 outsize=2623 kw=DIRECTIONAL ok=1
+  api=4 type=2 insize=5678 outsize=7750 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=3172 outsize=1258 kw=DIRECTIONAL ok=1
-Cmd: preprocess
-  insize=2853 outsize=687 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2467 outsize=1453 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2467 outsize=1177 kw= ok=1
-Cmd: preprocess
-  insize=1185 outsize=1189 ok=1
-Cmd: preprocess
-  insize=2011 outsize=2326 ok=1
+  api=4 type=3 insize=5678 outsize=5328 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=8119 outsize=1112 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=0 insize=7711 outsize=1298 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=8119 outsize=2558 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=1 insize=7711 outsize=1534 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=2 insize=8119 outsize=4727 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=2 insize=7711 outsize=7750 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=3 insize=8119 outsize=5377 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=3 insize=7711 outsize=5174 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=5754 outsize=1112 kw=POINT SHADOWS_OFF ok=1
+  api=4 type=0 insize=4981 outsize=1298 kw=SHADOWS_DEPTH ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=5754 outsize=2883 kw=POINT SHADOWS_OFF ok=1
+  api=4 type=1 insize=4981 outsize=445 kw=SHADOWS_DEPTH ok=1
 Cmd: compileSnippet
-  api=4 type=2 insize=5754 outsize=4727 kw=POINT SHADOWS_OFF ok=1
+  api=4 type=2 insize=4981 outsize=7750 kw=SHADOWS_DEPTH ok=1
 Cmd: compileSnippet
-  api=4 type=3 insize=5754 outsize=5028 kw=POINT SHADOWS_OFF ok=1
+  api=4 type=3 insize=4981 outsize=3248 kw=SHADOWS_DEPTH ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=5648 outsize=1112 kw= ok=1
+  api=4 type=0 insize=5700 outsize=1298 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=5648 outsize=1534 kw= ok=1
+  api=4 type=1 insize=5700 outsize=2517 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=4 type=2 insize=5648 outsize=4727 kw= ok=1
+  api=4 type=2 insize=5700 outsize=7815 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=4 type=3 insize=5648 outsize=4313 kw= ok=1
+  api=4 type=3 insize=5700 outsize=4386 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=7585 outsize=1112 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=4 type=0 insize=4858 outsize=1298 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=7585 outsize=1469 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=4 type=1 insize=4858 outsize=3062 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
 Cmd: compileSnippet
-  api=4 type=2 insize=7585 outsize=4727 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=4 type=2 insize=4858 outsize=7815 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
 Cmd: compileSnippet
-  api=4 type=3 insize=7585 outsize=4126 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+  api=4 type=3 insize=4858 outsize=4743 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=4961 outsize=1112 kw=SHADOWS_DEPTH ok=1
+  api=4 type=0 insize=8077 outsize=1298 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=4961 outsize=445 kw=SHADOWS_DEPTH ok=1
+  api=4 type=1 insize=8077 outsize=3029 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=2 insize=4961 outsize=4727 kw=SHADOWS_DEPTH ok=1
+  api=4 type=2 insize=8077 outsize=7815 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=3 insize=4961 outsize=2672 kw=SHADOWS_DEPTH ok=1
+  api=4 type=3 insize=8077 outsize=5930 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=5754 outsize=1112 kw=DIRECTIONAL SHADOWS_OFF ok=1
+  api=4 type=0 insize=5868 outsize=1298 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=5754 outsize=2395 kw=DIRECTIONAL SHADOWS_OFF ok=1
+  api=4 type=1 insize=5868 outsize=2517 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=4 type=2 insize=5754 outsize=4727 kw=DIRECTIONAL SHADOWS_OFF ok=1
+  api=4 type=2 insize=5868 outsize=7750 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=4 type=3 insize=5754 outsize=4248 kw=DIRECTIONAL SHADOWS_OFF ok=1
+  api=4 type=3 insize=5868 outsize=5353 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=5007 outsize=1112 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
+  api=4 type=0 insize=5026 outsize=1298 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=5007 outsize=3062 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
+  api=4 type=1 insize=5026 outsize=3062 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
 Cmd: compileSnippet
-  api=4 type=2 insize=5007 outsize=4727 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
+  api=4 type=2 insize=5026 outsize=7750 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
 Cmd: compileSnippet
-  api=4 type=3 insize=5007 outsize=4695 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
+  api=4 type=3 insize=5026 outsize=5272 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=8119 outsize=1112 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=0 insize=8245 outsize=1298 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=8119 outsize=2891 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=1 insize=8245 outsize=3029 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=2 insize=8119 outsize=4727 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=2 insize=8245 outsize=7750 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=3 insize=8119 outsize=5792 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=3 insize=8245 outsize=6897 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
 Cmd: preprocess
-  insize=1982 outsize=1728 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=8090 outsize=1112 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=8090 outsize=2558 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=2 insize=8090 outsize=4727 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=3 insize=8090 outsize=5377 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=5713 outsize=1112 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=5713 outsize=2883 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=2 insize=5713 outsize=4727 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=3 insize=5713 outsize=5028 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=5619 outsize=1112 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=5619 outsize=1534 kw= ok=1
+  insize=2739 outsize=632 ok=1
 Cmd: compileSnippet
-  api=4 type=2 insize=5619 outsize=4727 kw= ok=1
+  api=4 type=0 insize=2407 outsize=1453 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=3 insize=5619 outsize=4313 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=7556 outsize=1112 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=7556 outsize=1469 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=2 insize=7556 outsize=4727 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=3 insize=7556 outsize=4126 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=5713 outsize=1112 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=5713 outsize=2395 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=2 insize=5713 outsize=4727 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=3 insize=5713 outsize=4248 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=8090 outsize=1112 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=8090 outsize=2891 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=2 insize=8090 outsize=4727 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=3 insize=8090 outsize=5792 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: preprocess
-  error: 2 plat 12 at (22): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'vertexInput i'
-  error: 1 plat 12 at (22): Unrecognized #pragma surface directive: fragment:frag
-  insize=2977 outsize=848 ok=0
-Cmd: preprocess
-  error: 2 plat 12 at (22): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'vertexInput i'
-  error: 1 plat 12 at (22): Unrecognized #pragma surface directive: fragment:frag
-  insize=2880 outsize=848 ok=0
-Cmd: preprocess
-  error: 2 plat 12 at (22): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'vertexInput i'
-  error: 1 plat 12 at (22): Unrecognized #pragma surface directive: fragment:frag
-  insize=2880 outsize=848 ok=0
+  api=4 type=1 insize=2407 outsize=1177 kw= ok=1
 Cmd: preprocess
-  insize=2878 outsize=687 ok=1
+  insize=2802 outsize=633 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2492 outsize=1453 kw= ok=1
+  api=4 type=0 insize=2470 outsize=1453 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2492 outsize=1177 kw= ok=1
+  api=4 type=1 insize=2470 outsize=1177 kw= ok=1

@@ -1,32 +1,31 @@
 ﻿Shader "Custom/Terrain Mixer Texture" {
 	Properties {
-		_Color ("Main Color", Color) = (1,1,1,1)
+		_Color ("Main Color", Color) = (0,1,0,1)
 		_MainTex ("Main Texture", 2D) = "white" {}
 		_SecondTex ("Second Texture", 2D) = "white" {}
 		_BumpMap ("Bumpmap", 2D) = "bump"  {}
-		_NormalIntensity("Normal Map Intensity", Range(0, 2)) = 1
-		_RimColor ("Rim Color", Color) = (1,1,1,1)
-		_RimPower("Rim Power", Range(0.1, 10)) = 3.0
+//		_NormalIntensity("Normal Map Intensity", Range(0, 2)) = 1
+//		_RimColor ("Rim Color", Color) = (1,1,1,1)
+//		_RimPower("Rim Power", Range(0.1, 10)) = 3.0
 	}
 	SubShader {
 		Tags { "Queue"="Geometry" }
-		//Tags { "RenderType" = "Opaque" }
-	
-//		Tags { "Queue"="Transparent" }
-//		ZWrite Off
+		
+		Tags { "LightMode"="ForwardBase" }
+
 //		Blend SrcAlpha OneMinusSrcAlpha
-//		LOD 200
 		
 		Pass
 		{
 		CGPROGRAM
-		//#pragma surface surf Lambert vertex:vert fragment:frag tessellate:tessEdge nolightmap
 		#pragma exclude_renderers ps3 xbox360 flash
 		#pragma fragmentoption ARB_precision_hint_fatest
 		#pragma vertex vert
 		#pragma fragment frag
 		
 		#include "UnityCG.cginc"
+		
+		#include "AutoLight.cginc" 
 
 		uniform sampler2D _MainTex;
 		uniform float4 _MainTex_ST;
@@ -56,7 +55,6 @@
 		    float2 uv_MainTex;
 		    float2 uv_BumpMap;
 		    float3 viewDir;
-		    //INTERNAL_DATA
 	    };
 	    
 	    struct SurfaceOutputCustom {
@@ -68,15 +66,14 @@
 		    fixed Alpha;
 		    fixed Intensity;
 		};
-//
-//	    sampler2D _BumpMap;
-//	    samplerCUBE _Cube;
 		
 		struct fragmentInput {
 			float4 pos : SV_POSITION;
 			half2 uv : TEXCOORD0;
 			half2 uv2 : TEXCOORD1;
 			fixed2 localPos : TEXCOORD3;
+			
+			LIGHTING_COORDS(0, 1)
 		};
 
 		fragmentInput vert(vertexInput i)
@@ -86,7 +83,8 @@
 			o.pos = mul(UNITY_MATRIX_MVP, i.vertex);
 			o.uv  = TRANSFORM_TEX(i.texcoord, _MainTex);
 			o.uv2 = TRANSFORM_TEX(i.texcoord, _SecondTex);
-			//o.vertex.xyz += v.normal * .1;
+			
+			TRANSFER_VERTEX_TO_FRAGMENT(o);
 			
 			return o;
 		}
@@ -99,21 +97,23 @@
 			fixed4 mainTexColor   = tex2D(_MainTex, i.uv);
 			fixed4 secondTexColor = tex2D(_SecondTex, i.uv2);
 			
+			float attenuation = LIGHT_ATTENUATION(i);
+			
 			return lerp(mainTexColor, 
 						secondTexColor,
-						1 - (midpointDistance+pointChange)/pointChange*percentageChange); 
+						1 - (midpointDistance+pointChange)/pointChange*percentageChange) * attenuation; 
 			
 		}
 		
-		void surf (Input IN, inout SurfaceOutputCustom o)
-	    {
-			float4 tex = tex2D (_MainTex, IN.uv_MainTex);
-			o.Albedo = tex.rgb;
-			o.Normal = UnpackNormal (tex2D (_BumpMap, IN.uv_MainTex));
-			half rim = 1 - dot(normalize(IN.viewDir), o.Normal);
-			o.Emission = _RimColor.rgb * pow(rim, _RimPower);
-
-	    }
+//		void surf (Input IN, inout SurfaceOutputCustom o)
+//	    {
+//			float4 tex = tex2D (_MainTex, IN.uv_MainTex);
+//			o.Albedo = tex.rgb;
+//			o.Normal = UnpackNormal (tex2D (_BumpMap, IN.uv_MainTex));
+//			half rim = 1 - dot(normalize(IN.viewDir), o.Normal);
+//			o.Emission = _RimColor.rgb * pow(rim, _RimPower);
+//
+//	    }
 			
 		ENDCG
 		}

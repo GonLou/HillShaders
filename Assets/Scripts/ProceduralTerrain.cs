@@ -6,30 +6,42 @@ using UnityEngine;
 using System.Collections;
 
 public class ProceduralTerrain : MonoBehaviour {
-	
-	private float widthLength = 100.0f;
+
+	/// The length of the width.
+	private float widthLength = 100.0f; 
+
+	/// The mesh segment count.
 	private int meshSegmentCount = 100;	
 
-	// Hill variables
+	/// The minimum radius of the Hill.
 	public float minRadius = 1.0f;
+	/// The maximum radius of the Hill.
 	public float maxRadius = 50.0f;
 
+	/// The minimum height of the hill.
 	public float minHillSize = 50;
+	/// The maximum height of the hill.
 	public float maxHillSize = 100;
 
+	/// The coordinates of y.
 	private float[,] finalY;
 
+	/// The interaction hill.
 	public int interactionHill = 100;
+	/// The interaction hill smooth.
 	public int interactionHillSmooth = 3;
 
+	/// The max y.
 	private float maxY = 0;
+	/// The min y.
 	private float minY = 0;
 
+	/// The terrain collider.
 	public TerrainCollider tc;
 
 	protected virtual void Start() {
 		MeshBuilder meshBuilder = new MeshBuilder();
-		
+		/// calculates the segment size.
 		float segmentSize = widthLength / meshSegmentCount;
 
 		// Hill
@@ -71,18 +83,18 @@ public class ProceduralTerrain : MonoBehaviour {
 	/// Generates the Hill in form of an island
 	/// </summary>
 	public void GenerateHill() {
-		float radius = Random.Range( minHillSize, maxHillSize * 2);   // estabilishes the minimum and maximum value for the hill
-		float x, y;                                                   // coordinates
-		float theta = Random.Range( 0.0f, 2 * Mathf.PI );             // circle	
-		float distance = Random.Range( 0, widthLength/2.0f - radius); // base distance
+		float radius = Random.Range( minHillSize, maxHillSize * 2);   /// estabilishes the minimum and maximum value for the hill
+		float x, y;                                                   /// coordinates
+		float theta = Random.Range( 0.0f, 2 * Mathf.PI );             /// circle	
+		float distance = Random.Range( 0, widthLength/2.0f - radius); /// base distance
 
 		// pick the coordinates for the hill inside the pre-establish circle
 		x = (float)(widthLength / 2.0f + Mathf.Cos( theta ) * distance/1.5f);
 		y = (float)(widthLength / 2.0f + Mathf.Sin( theta ) * distance/1.5f);
 
-		float squareRadius = radius * radius; // just avoing pow function
+		float squareRadius = radius * radius; /// just avoing pow function
 		float squareDistance;
-		float heigth; // the value of y
+		float heigth; /// the value of y
 		
 		// calculates the are of influence by the altitude of the hill
 		int xMin = (int)(x - radius - 1);
